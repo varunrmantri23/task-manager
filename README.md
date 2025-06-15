@@ -2,15 +2,8 @@
 
 A clean and modern task management application built with React and Vite for organizing daily tasks and todos.
 
-Screenshots
-
 ![Desktop View](public/demo-1.png)
 *Desktop/Laptop interface with dual-column layout*
-
-![Mobile View](public/demo-2.png)
-
-*Mobile responsive design*
-
 
 How to Run
 
